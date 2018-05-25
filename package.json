@@ -1,0 +1,11 @@
+{
+  "name": "ComponentSwitch",
+  "version": "1.0.0",
+  "main": "ComponentSwitch.jsx",
+  "author": "shaham hai",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.4.0"
+  }
+}
